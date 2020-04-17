@@ -1,6 +1,3 @@
-<a href="https://imperfectgamers.org"><img src="https://www.imperfectgamers.org/img/altlogo.png" title="Imperfect Gamers" alt="Logo"></a>
-
-
 ***Daiyaan Ijaz***
 
 # Lab_12_W20
@@ -47,4 +44,4 @@ Functionality: Stores and prints positive integers from user input respectively.
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
-- Copyright 2020 © <a href="https://imperfectgamers.org" target="_blank">Imperfect Gamers</a>.
+- <a href="https://imperfectgamers.org"><img src="https://www.imperfectgamers.org/img/altlogo.png" width="15" height="15" title="Imperfect Gamers" alt="Logo"></a> Copyright 2020 © <a href="https://imperfectgamers.org" target="_blank">Imperfect Gamers</a>.
